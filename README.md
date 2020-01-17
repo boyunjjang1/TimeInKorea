@@ -16,3 +16,11 @@ Time In Korea는 대한민국 역사를 기반으로 한 빅데이터 기반 3D�
  
  # 2. 기술적 요소
  
+ 본 프로젝트는 다음과 같은 기술적 요소들을 사용하였습니다.
+ 
+ ## 2.1. Unity
+ ### 2.1.1 Terrain Compser의 활용
+ 앞서 World Composer를 통해 인천의 고도 정보를 담은 heightmap data를 Terrain Composer를 통해 편집 및 수정하여 게임 내 가상의 world를 구현하였습니다.
+ * 지형을 자동으로 인식하여 이에 맞는 Splatmap을 적용할 수 있으며, 자동으로 적용된 Splatmap 위에 다시 자동으로 나무 object와 수풀 object를 생성한다. 물론 부족한 부분은 직접 수정할 수 있었습니다.
+ 
+ 
