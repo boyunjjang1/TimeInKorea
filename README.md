@@ -1,5 +1,5 @@
 # TimeInKorea
-[![Universal Platform](https://img.shields.io/badge/Platform-Universal-darkgreen?logo=windows&logoColor=white)](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide) [![C#](https://img.shields.io/badge/C%23-Unity-222?logo=Unity)](https://unity.com/) [![HTCVive](https://img.shields.io/badge/VR-HTC%20Vive-1af)](https://www.vive.com/)
+[![Universal Platform](https://img.shields.io/badge/Platform-Universal-darkgreen?logo=windows&logoColor=white)](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide) [![C#](https://img.shields.io/badge/C%23-Unity-222?logo=Unity)](https://unity.com/).
 
 **2019 문화체육관광부 주최 문화데이터 활용 공모전 특별상 수상작**
 
