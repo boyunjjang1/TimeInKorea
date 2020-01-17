@@ -35,8 +35,8 @@ Time In Korea는 대한민국 역사를 기반으로 한 빅데이터 기반 3D�
 ### 2.1.3 Dialogue System의 활용
 * Dialogue Editor을 사용하여 대화 Database를 만들 대화의 Actor와 Conversant에 Unity Object를 적용시켜 상황에 따른 조건과 분기를 주었습니다.
 * Quest 기능 또한 퀘스트의 항목화와 순서정리에 최적화 되어있기 때문에 이 기능을 이용하여 플레이어가 NPC 혹은 Object와 상호작용을 할 때만 다음 대화가 이루어지도록 제작하였습니다.
-<img src="dialogue1.png" height="300px" width="450px">
-<img src="dialogue2.png" height="300px" width="450px">
+<img src="dialoge1.png" height="300px" width="450px">
+<img src="dialoge2.png" height="300px" width="450px">
 
 ### 2.1.4 Photon Network의 활용
 * Photon Network를 사용하여 멀티 플레이어 온라인 게임으로 제작하였습니다.
